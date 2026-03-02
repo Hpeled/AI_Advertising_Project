@@ -1,4 +1,4 @@
-🚀 Taboola Recommendations Widget - Front End Assignment by Hila Peled
+🚀 Recommendations Widget - Front End Project by Hila Peled
 This project implements a fully responsive, client-side recommendations widget using Vanilla JavaScript, HTML, and CSS to fetch and display content from the Taboola API.
 
 🛠️ Setup and Running the Project
